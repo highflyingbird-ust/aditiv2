@@ -1,2 +1,2 @@
-# aditiv2
-Conversational Vector response pairs
+# mvrnn
+Python implementation of Socher's paper
